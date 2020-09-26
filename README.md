@@ -23,4 +23,4 @@ python recognize_faces_video.py --encodings encodings.pickle --output output/web
 ```
 
 ## Original Article
-Source: https://www.kaggle.com/caesarlupum/vertebralcolumndataset
+Source: https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/
